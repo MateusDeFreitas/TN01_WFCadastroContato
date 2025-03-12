@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TN01_WFCadastroContato/1.0.0": {
+        "runtime": {
+          "TN01_WFCadastroContato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TN01_WFCadastroContato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
